@@ -20,9 +20,6 @@ This is the CO-project developed by Somay Jalan (2022505), Swarnima Prasad (2022
 - **Error Handling & Flag Register**: Generates errors for invalid instructions and sets flags for overflows.
 
 ### Course Details
-- Details specific to the course assignment are available in respective folders (`Q3`).
+- Instructor's name - Tammam Tillo (tammam@iiitd.ac.in)
+- Course Code - CSE112
 
-### Conclusion
-Both repositories demonstrate implementations of assemblers and simulators tailored for specific ISAs, developed within educational contexts. Each repository offers unique features and usage scenarios, reflecting different implementation approaches and assignment requirements.
-
-For further details and specific implementations, please refer to the respective GitHub repositories linked above.
